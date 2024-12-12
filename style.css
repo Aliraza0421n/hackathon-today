@@ -24,3 +24,12 @@ position: absolute;
 right: 110px;
     
   }
+  @media (max-width: 1000px) {
+.media-img img{
+  width: 100%;
+}
+.po-cards .card{
+  margin: 10px auto;
+}
+  }
+  
