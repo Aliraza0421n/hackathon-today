@@ -24,12 +24,35 @@ position: absolute;
 right: 110px;
     
   }
+
+
   @media (max-width: 1000px) {
 .media-img img{
   width: 100%;
 }
+.input-group{
+  width: 100%;
+  margin: 5px auto;
+}
+.btn-hee{
+  margin: 5px auto; 
+}
 .po-cards .card{
   margin: 10px auto;
 }
+.left-side{
+  width: 100%;
+  inline-size: 100%;
+}
+.h-style{
+  inline-size: 100%;
+  margin: 10px auto;
+  text-align: left !important;
+  width: 100%;
+}
+
+  }
+  @media (max-width: 580px) {
+
   }
   
